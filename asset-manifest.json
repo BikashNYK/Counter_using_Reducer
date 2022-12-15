@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Counter_using_Reducer/static/css/main.073c9b0a.css",
+    "main.js": "/Counter_using_Reducer/static/js/main.f630b5b4.js",
+    "static/js/787.e68c998d.chunk.js": "/Counter_using_Reducer/static/js/787.e68c998d.chunk.js",
+    "index.html": "/Counter_using_Reducer/index.html",
+    "main.073c9b0a.css.map": "/Counter_using_Reducer/static/css/main.073c9b0a.css.map",
+    "main.f630b5b4.js.map": "/Counter_using_Reducer/static/js/main.f630b5b4.js.map",
+    "787.e68c998d.chunk.js.map": "/Counter_using_Reducer/static/js/787.e68c998d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f630b5b4.js"
+  ]
+}
